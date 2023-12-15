@@ -22,8 +22,11 @@ extension UIColor {
                 closestColor = color
             }
         }
-
-        return closestColor!.name[language_region]!
+        
+        if let val = closestColor!.name[language_region] {
+            return val
+        }
+        return closestColor!.name["en-US"]!
     }
     
     public func name() -> String {
