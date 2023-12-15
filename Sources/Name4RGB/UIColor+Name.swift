@@ -1,7 +1,7 @@
 import SwiftUI
 
 extension UIColor {
-    func name(_ language_region: String) -> String {
+    public func name(_ language_region: String) -> String {
         var closestDistance: CGFloat = .greatestFiniteMagnitude
         var closestColor: Name4RGBColor?
 
@@ -26,7 +26,7 @@ extension UIColor {
         return closestColor!.name[language_region]!
     }
     
-    func name() -> String {
+    public func name() -> String {
         return name("en-US")
     }
 }
