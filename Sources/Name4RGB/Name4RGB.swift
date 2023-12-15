@@ -1,3 +1,5 @@
+import Foundation
+
 struct Name4RGBColor {
     var name: [String: String]
     var red: CGFloat
