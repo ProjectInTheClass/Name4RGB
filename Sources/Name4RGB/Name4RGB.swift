@@ -1,4 +1,4 @@
-import Foundation
+import SwiftUI
 
 struct Name4RGBColor {
     var name: [String: String]
