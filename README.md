@@ -1,7 +1,7 @@
 # Name4RGB
 
-[![Version](https://img.shields.io/github/release/ProjectInTheClass/Name4RGB.svg)](https://github.com/ProjectInTheClass/Name4RGB/releases)
-![Swift Version](https://img.shields.io/badge/swift-5.9.0-orange.svg)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FProjectInTheClass%2FName4RGB%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ProjectInTheClass/Name4RGB)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FProjectInTheClass%2FName4RGB%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ProjectInTheClass/Name4RGB)
 
 Open Source Library to Find the Nearest Color Name for Color and UIColor.
 
