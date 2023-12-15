@@ -20,7 +20,7 @@ For installation with [Swift Package Manager](https://github.com/apple/swift-pac
 
 ### Find name of Color
 
-You easily find name of Color. You can easily find localized color names by specifying the language and region.
+You can easily find find name of Color, localized color names by specifying the language and region.
 
 ```swift
 let color = Color(red: 0.4, green: 0.4, blue: 0.4)
